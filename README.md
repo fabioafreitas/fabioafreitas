@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Fábio Alves!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&theme=default&langs_count=10&hide=html&layout=compact)
-
-<div>
+| | |
+|-|-|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&theme=default&langs_count=10&hide=html&layout=compact)
+ |<div>
   <img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/arduino.svg" alt="arduino" height='42px'/>
   <img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/raspberrypi.svg" alt="raspberrypi" height='42px'/>
   <img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/aws.svg" alt="aws" height='42px'/>
@@ -29,4 +29,6 @@
   <img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/tensorflow.svg" alt="tensorflow" height='42px'/>
   <img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/vue.svg" alt="vue" height='42px'/>
   <img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/react.svg" alt="react" height='42px'/>
-<div/>
+<div/> |
+
+
