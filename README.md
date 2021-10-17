@@ -24,7 +24,8 @@
 <div/>
 
 <br>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&theme=default&langs_count=10&hide=html&bg_color=ffffff00)
 
+ <center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&theme=default&langs_count=10&hide=html&layout=compact)
+  <center/>
 </a>
