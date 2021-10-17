@@ -24,10 +24,8 @@
 <div/>
 
 <br>
-
-<a href='https://github.com/fabioafreitas/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/fabioafreitas/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/fabioafreitas/github-stats-transparent/output/generated/languages.svg)
+ 
+![My stats](https://github-readme-stats.vercel.app/api?username=fabioafreitas&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&layout=compact&theme=default&langs_count=10)
 
 </a>
