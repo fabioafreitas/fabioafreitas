@@ -25,4 +25,4 @@
 
  <br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&theme=default&langs_count=10&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&theme=dark&langs_count=10&hide=html&layout=compact)
