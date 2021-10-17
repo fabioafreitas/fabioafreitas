@@ -25,6 +25,6 @@
 
 <br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&layout=compact&theme=default&langs_count=10&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioafreitas&layout=compact&theme=default&langs_count=10&hide=html&bg_color=ffff00)
 
 </a>
