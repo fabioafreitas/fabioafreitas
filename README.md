@@ -9,7 +9,7 @@
 
 ---
 #### Learning
-[<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_light_solidity_icon_130436.png" alt="solidity" width='26px'/></code>](https://docs.soliditylang.org/en/v0.8.11/)
+[<code><img src="https://docs.soliditylang.org/en/v0.7.0/_images/logo.svg" alt="solidity" width='26px'/></code>](https://docs.soliditylang.org/en/v0.8.11/)
 [<code><img src="https://img.icons8.com/fluency/50/000000/ethereum.png" alt="ethereum" width='26px'/></code>](https://ethereum.org/en/)
 
 #### Languages
