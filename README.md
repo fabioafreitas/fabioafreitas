@@ -40,7 +40,7 @@
 #### Machine Learning
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/keras.svg" alt="keras" width='26px'/></code>](https://keras.io/)
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/tensorflow.svg" alt="tensorflow" width='26px'/></code>](https://tensorflow.org/)
-[<code><img src="https://icons8.com/icon/aR9CXyMagKIS/numpy" alt="numpy" width='26px'/></code>](https://numpy.org/)
+[<code><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="numpy" width='26px'/></code>](https://numpy.org/)
 [<code><img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" width='26px'/></code>](https://pandas.pydata.org/)
 [<code><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png?raw=true" alt="scikit-learn" width='26px'/></code>](https://scikit-learn.org/)
 
