@@ -1,14 +1,14 @@
 ## Hey 👋, I'm Fábio Alves!
 
 #### Languages
-[<code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="java" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="python" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png" alt="r" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="rust" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="dart" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" width='26px'/></code>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width='26px'/></code>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="java" width='26px'/></code>](https://www.java.com/en/)
+[<code><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="python" width='26px'/></code>](https://www.python.org/)
+[<code><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript" width='26px'/></code>](https://www.javascript.com/)
+[<code><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png" alt="r" width='26px'/></code>](https://www.r-project.org/)
+[<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="rust" width='26px'/></code>](https://www.rust-lang.org/)
+[<code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="dart" width='26px'/></code>](https://dart.dev/)
 
 #### Embedded Systems
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/arduino.svg" alt="arduino" width='26px'/></code>](https://www.arduino.cc/)
@@ -22,8 +22,8 @@
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/docker.svg" alt="docker" width='26px'/></code>](https://www.docker.com/)
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/nginx.svg" alt="nginx" width='26px'/></code>](https://www.nginx.com/)
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/heroku.svg" alt="heroku" width='26px'/></code>](https://www.heroku.com/)
-[<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="bash script" width='26px'/></code>]()
-[<code><img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="bash script" width='26px'/></code>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[<code><img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width='26px'/></code>](https://www.kernel.org/)
 
 #### Mobile Development
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/flutter.svg" alt="flutter" width='26px'/></code>](https://flutter.dev/)
