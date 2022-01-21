@@ -1,14 +1,14 @@
 ## Hey 👋, I'm Fábio Alves!
 
 #### Languages
-[<code><img src="<img src="https://img.icons8.com/color/50/000000/c-programming.png"/>" alt="c" width='26px'/></code>]()
-[<code><img src="<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>" alt="c++" width='26px'/></code>]()
-[<code><img src="<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>" alt="java" width='26px'/></code>]()
-[<code><img src="<img src="https://img.icons8.com/color/50/000000/python--v1.png"/>" alt="python" width='26px'/></code>]()
-[<code><img src="<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>" alt="javascript" width='26px'/></code>]()
-[<code><img src="<img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png"/>" alt="r" width='26px'/></code>]()
-[<code><img src="<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>" alt="rust" width='26px'/></code>]()
-[<code><img src="<img src="https://img.icons8.com/color/50/000000/dart.png"/>" alt="dart" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="java" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="python" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png" alt="r" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="rust" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="dart" width='26px'/></code>]()
 
 #### Embedded Systems
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/arduino.svg" alt="arduino" width='26px'/></code>](https://www.arduino.cc/)
