@@ -1,4 +1,4 @@
-### Hi there, I'm Fábio Alves - aka [Fábio][https://fabioalves.site/] <img src="./Icons/Hi.gif" height="32" />
+### Hi there, I'm Fábio Alves - aka [Fábio](https://fabioalves.site/)
 
 ## I'm a Master's Degree student, and Developer!
 
@@ -7,7 +7,7 @@
 - 🌱 I’m learning Web 3.0 and Solidity as a hobby!
 - 🎯 2022 Goals: Finish my masters degree and build dApps in the Ethereum blockchain!
 
-[<img align="left" alt="LinkedIn" height="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][https://www.linkedin.com/in/fabioalvesfrei/]
+[<img align="left" alt="LinkedIn" height="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/fabioalvesfrei/)
 
 <br />
 
