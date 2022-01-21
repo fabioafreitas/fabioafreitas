@@ -23,7 +23,7 @@
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/nginx.svg" alt="nginx" width='26px'/></code>](https://www.nginx.com/)
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/heroku.svg" alt="heroku" width='26px'/></code>](https://www.heroku.com/)
 [<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="bash script" width='26px'/></code>]()
-[<code><img src="https://icons8.com/icon/17842/linux" alt="linux" width='26px'/></code>]()
+[<code><img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width='26px'/></code>]()
 
 #### Mobile Development
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/flutter.svg" alt="flutter" width='26px'/></code>](https://flutter.dev/)
