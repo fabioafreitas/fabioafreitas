@@ -18,8 +18,8 @@
 [<code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="java" width='26px'/></code>](https://www.java.com/en/)
 [<code><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="python" width='26px'/></code>](https://www.python.org/)
 [<code><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript" width='26px'/></code>](https://www.javascript.com/)
-[<code><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png" alt="r" width='26px'/></code>](https://www.r-project.org/)
-[<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="rust" width='26px'/></code>](https://www.rust-lang.org/)
+[<code><img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width='26px'/></code>](https://www.r-project.org/)
+[<code><img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width='26px'/></code>](https://www.rust-lang.org/)
 [<code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="dart" width='26px'/></code>](https://dart.dev/)
 
 #### Embedded Systems
