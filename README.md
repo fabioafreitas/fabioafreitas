@@ -1,6 +1,6 @@
 ### Hi there, I'm Fábio Alves - aka [Fábio](https://fabioalves.site/) [<img align="left" alt="LinkedIn" height="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/fabioalvesfrei/)
 
-## I'm a Master's Degree student, and Developer!
+## I'm a Master's Degree student and IoT Developer!
 
 - 🎓 I’m currently in my final year of masters!
 - 👨‍💻 I'm developing IoT systems for aquaculture environments!
